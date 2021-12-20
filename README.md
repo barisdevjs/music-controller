@@ -1,6 +1,6 @@
 # This is a Music Controller
 ---
-[ LIVE  Demo](https://flamboyant-nobel-bdb6fc.netlify.app/) will be modified
+[ LIVE  Demo](https://kind-jones-60deb4.netlify.app/) 
 
 ## Below you will see the page of a game
 
